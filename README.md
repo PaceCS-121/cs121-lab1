@@ -1,4 +1,4 @@
-template for cit312 labs
+# Lab 1 - Getting Started with Python
 
 Intro to Programming I
 
